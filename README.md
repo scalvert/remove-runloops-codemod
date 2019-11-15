@@ -19,6 +19,7 @@ remove-runloops-codemod <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 ## Transforms
 
 <!--TRANSFORMS_START-->
+* [remove-run-in-tests](transforms/remove-run-in-tests/README.md)
 <!--TRANSFORMS_END-->
 
 ## Contributing
